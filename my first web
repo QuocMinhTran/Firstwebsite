@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <meta charset = "utf-8">
+            <title>Webbapplikationer Dag 1 - övning 1</title>
+        </head>
+        <body>
+            <h1>Start learning HTML now!</h1>
+            <a href="file:///C:/Users/Minh/AppData/Local/Temp/7zO776B.tmp/webbapplikationer_dag1_ovn2.html">Link here</a>
+            <h2>HTML Examples</h2>
+            <p>At the end of the HTML tutorial, you can find more than 200 examples.</p>
+            <p>With our online editor, you can edit and test each example yourself. Go to HTML Examples!</p>
+            <p><a href="http://www.w3schools.com/html/html_examples.asp"></a>HTML Quiz Test</p>
+            <p>Test your HTML skills at W3Schools! Start HTML Quiz!</p>
+            <p><a href = "http://www.w3schools.com/html/html_examples.asp"></a> HTML References</p>
+            <p>At W3Schools you will find complete references about tags, attributes, events, color names, entities, character-sets, URL encoding, language codes, HTTP messages, and more.</p>
+            <p><a href ="http://www.w3schools.com/tags/default.asp"></a>HTML Tag Reference</p>
+        </body>
+    </html>
